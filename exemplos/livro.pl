@@ -1,0 +1,1 @@
+livro(nome('Linguagem C'), autor('Autor1'), pal_chave([linguagemc,programacao,computacao])).
